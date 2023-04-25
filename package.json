@@ -1,0 +1,13 @@
+{
+  "name": "net.bobbo.dev-console",
+  "version": "0.0.1",
+  "displayName": "Bobbo-Net Development Console",
+  "author": {
+    "name": "BOBBO-NET",
+    "url": "https://bobbo.net"
+  },
+  "dependencies": {
+    "com.svermeulen.extenject": "9.2.0",
+    "com.unity.textmeshpro": "3.0.6"
+  }
+}
