@@ -1,7 +1,7 @@
 using UnityEngine;
 using Zenject;
 
-namespace BobboNet.Engine
+namespace BobboNet.ConsoleCommands
 {
     public abstract class DevConsoleCommandBase
     {

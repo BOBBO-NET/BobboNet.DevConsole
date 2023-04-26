@@ -2,7 +2,7 @@ using System.Text;
 using UnityEngine;
 using Zenject;
 
-namespace BobboNet.Engine.ConsoleCommands
+namespace BobboNet.ConsoleCommands
 {
     public class SetScene : DevConsoleCommandBase
     {

@@ -2,8 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Zenject;
+using BobboNet.ConsoleCommands;
 
-namespace BobboNet.Engine
+namespace BobboNet
 {
     [CreateAssetMenu(fileName = "DevConsoleManagerInstaller", menuName = "Installers/DevConsoleManagerInstaller")]
     public class DevConsoleManagerInstaller : ScriptableObjectInstaller<DevConsoleManagerInstaller>

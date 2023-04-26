@@ -5,7 +5,7 @@ using Zenject;
 using TMPro;
 using System.Text;
 
-namespace BobboNet.Engine
+namespace BobboNet
 {
     [RequireComponent(typeof(Canvas))]
     public class DevConsoleManager : MonoBehaviour
